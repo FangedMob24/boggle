@@ -1,0 +1,14 @@
+/* #board {
+    inline-size: 150px;
+    overflow-wrap: break-word;
+} */
+.row {
+    width: 150px;
+    display: grid;
+}
+#submit {
+    display: none;
+}
+.stats {
+    display:none;
+}
